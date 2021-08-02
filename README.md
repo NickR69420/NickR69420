@@ -18,6 +18,10 @@
 
 <img align="left" alt="Javascript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
 
+
+
+
+
 ## Connections.
 
 <img align="left" alt="Discord" width="52px" src="https://www.freepnglogos.com/uploads/discord-logo-png/concours-discord-cartes-voeux-fortnite-france-6.png" />
