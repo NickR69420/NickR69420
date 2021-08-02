@@ -29,8 +29,6 @@
 
 <img align="left" alt="Discord" width="52px" src="https://www.freepnglogos.com/uploads/discord-logo-png/concours-discord-cartes-voeux-fortnite-france-6.png" />
 
-### Discord
-
-Nickk#0007
+### Nickk#0007
 
 - Join my [Discord Server!](https://discord.gg/2auFJB7wUX)
