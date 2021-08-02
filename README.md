@@ -19,8 +19,7 @@
 <img align="left" alt="Javascript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
 
 
-
-
+### Info
 
 ## Connections.
 
