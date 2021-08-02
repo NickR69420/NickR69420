@@ -31,4 +31,4 @@
 
 ### Nickk#0007
 
-- Join my [Discord Server!](https://discord.gg/2auFJB7wUX)
+Join my [Discord Server!](https://discord.gg/2auFJB7wUX)
