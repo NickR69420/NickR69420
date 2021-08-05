@@ -1,6 +1,6 @@
 
 ![Nick](https://i.ibb.co/b1xV43w/Nick3.jpg)
-Hi, I'm Nick and I succ at coding :D
+
 
 
 
