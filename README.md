@@ -6,13 +6,14 @@
 
 ###                                                                                   Overall Statistics.
 
-![NickR's Github Stats!](https://github-readme-stats.vercel.app/api?username=NickR69420&show_icons=true&theme=tokyonight)  
-
 <a href="https://github.com/NickR69420">
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=NickR69420" alt="Profile Views">
   </p>
 </a>
+
+
+![NickR's Github Stats!](https://github-readme-stats.vercel.app/api?username=NickR69420&show_icons=true&theme=tokyonight)  
 
 ### Feed
 
