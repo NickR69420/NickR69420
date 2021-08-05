@@ -1,11 +1,18 @@
 
 ![Nick](https://i.ibb.co/b1xV43w/Nick3.jpg)
+Hi, I'm Nick and I succ at coding :D
 
 
 
 ###                                                                                   Overall Statistics.
 
 ![NickR's Github Stats!](https://github-readme-stats.vercel.app/api?username=NickR69420&show_icons=true&theme=tokyonight)  
+
+<a href="https://github.com/NickR69420">
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=NickR69420" alt="Profile Views">
+  </p>
+</a>
 
 ### Feed
 
