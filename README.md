@@ -1,5 +1,5 @@
 
-![Nick](https://i.ibb.co/b1xV43w/Nick3.jpg)
+![Nick](https://cdn.discordapp.com/attachments/864214549715746867/887305304860143636/a.png)
 
 
 
