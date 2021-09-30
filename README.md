@@ -20,7 +20,7 @@
 - Learning Typescript
 - Trying to understand Discord.js v13
 
-### Languages and Tools.
+### Languages and Tools
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://i.imgur.com/LwSdAlE.png" />
 <img align="left" alt="ts" width="26px" src="https://i.imgur.com/vSgFULR.png" />
