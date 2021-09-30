@@ -21,14 +21,11 @@
 - Trying to understand Discord.js v13
 
 ### Languages and Tools.
-<img align="center" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
-<img align="center" alt="Javascript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
-
-
-
-
-
+<img align="left" alt="Visual Studio Code" width="26px" src="https://i.imgur.com/LwSdAlE.png" />
+<img align="left" alt="ts" width="26px" src="https://i.imgur.com/vSgFULR.png" />
+<img align="left" alt="js" width="26px" src="https://i.imgur.com/3u1wzwE.png" />
+<img align="left" alt="mongodb" width="26px" src="https://imgur.com/xN5cFRr.png" /> 
 
 
 ##
