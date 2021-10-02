@@ -17,7 +17,7 @@
 
 ### Feed
 
-- Learning Typescript
+- Learning Java
 - Trying to understand Discord.js v13
 
 ### Languages and Tools
