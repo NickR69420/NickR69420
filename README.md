@@ -14,11 +14,12 @@
 
 
 ![NickR's Github Stats!](https://github-readme-stats.vercel.app/api?username=NickR69420&show_icons=true&theme=tokyonight)  
+![Languages Used](https://github-readme-stats-dusky-eta.vercel.app/api/top-langs/?username=NickR69420&theme=radical)
 
 ### Feed
 
-- Learning Java
-- Trying to understand Discord.js v13
+- Learning Typescript
+- Officially depressed
 
 ### Languages and Tools
 
