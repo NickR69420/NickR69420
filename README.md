@@ -18,8 +18,8 @@
 
 ### Feed
 
+- Working on [Dobro v2](https://github.com/DobroDev/Dobro-v2)
 - Learning Typescript
-- Officially depressed
 
 ### Languages and Tools
 
