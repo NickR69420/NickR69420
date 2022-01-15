@@ -19,7 +19,7 @@
 ### Feed
 
 - Working on [Dobro v2](https://github.com/DobroDev/Dobro-v2)
-- Learning Typescript
+- Learning Java
 
 ### Languages and Tools
 
