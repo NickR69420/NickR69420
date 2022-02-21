@@ -29,7 +29,9 @@
 <img align="left" alt="Nodejs" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
 <img align= "left" alt= "Djs" width="26px" src="https://camo.githubusercontent.com/d11bc5fc022603363226da69441297bc1f6dda6cd6253d80f5ed010125810aad/68747470733a2f2f692e696d6775722e636f6d2f534931445a66332e706e67" />
 <img align= "left" alt="Prisma" width="26px" src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/287/square_480/prismaHD.png" />
-<img align="left" alt="mongodb" width="26px" src="https://imgur.com/xN5cFRr.png" /> <br />
+<img align="left" alt="mongodb" width="26px" src="https://imgur.com/xN5cFRr.png" /> 
+<img align="left" alt="mysql" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
+<img align="left" alt="postgresql" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" /> <br />
 
 
 ---
