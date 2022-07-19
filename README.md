@@ -1,44 +1,22 @@
 
 ![Nick](https://cdn.discordapp.com/attachments/864214549715746867/887305304860143636/a.png)
 
+<h1 align="center">Hi 👋, I'm Nick</h1>
+<h3 align="center">A discord bot developer and avid Typescript fan.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nickr69420&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="nickr69420" /> </p>
 
+- 🌱 I’m currently learning **Java**
 
-### Overall Statistics                                                                                                        
+- 📫 Contact me on Discord **Nickk#7480**
 
-<a href="https://github.com/NickR69420">
-  <p align="left">
-    <img src="https://komarev.com/ghpvc/?username=NickR69420" alt="Profile Views">
-  </p>
-</a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-![NickR's Github Stats!](https://github-readme-stats.vercel.app/api?username=NickR69420&show_icons=true&theme=tokyonight)  
-![Languages Used](https://github-readme-stats-dusky-eta.vercel.app/api/top-langs/?username=NickR69420&theme=tokyonight)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nickr69420&show_icons=true&locale=en&layout=compact&theme=ayu-mirage" alt="nickr69420" /></p>
 
-### Feed
-
-- Learning Java
-
-### Languages and Tools
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://i.imgur.com/LwSdAlE.png" />
-<img align="left" alt="ts" width="26px" src="https://i.imgur.com/vSgFULR.png" />
-<img align="left" alt="js" width="26px" src="https://i.imgur.com/3u1wzwE.png" />
-<img align="left" alt="Nodejs" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
-<img align= "left" alt= "Djs" width="26px" src="https://camo.githubusercontent.com/d11bc5fc022603363226da69441297bc1f6dda6cd6253d80f5ed010125810aad/68747470733a2f2f692e696d6775722e636f6d2f534931445a66332e706e67" />
-<img align= "left" alt="Prisma" width="26px" src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/287/square_480/prismaHD.png" />
-<img align="left" alt="mongodb" width="26px" src="https://imgur.com/xN5cFRr.png" /> 
-<img align="left" alt="mysql" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
-<img align="left" alt="postgresql" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" /> <br />
-
-
----
-
-
-### Discord
-<img align="center" alt="Discord" width="52px" src="https://www.freepnglogos.com/uploads/discord-logo-png/concours-discord-cartes-voeux-fortnite-france-6.png" />
-
-Nickk#7480
-
-Join my [Discord Server!](https://discord.gg/2auFJB7wUX)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nickr69420&show_icons=true&locale=en&theme=ayu-mirage" alt="nickr69420" /></p>
