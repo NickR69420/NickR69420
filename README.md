@@ -7,7 +7,7 @@
 ### Overall Statistics                                                                                                        
 
 <a href="https://github.com/NickR69420">
-  <p align="center">
+  <p align="left">
     <img src="https://komarev.com/ghpvc/?username=NickR69420" alt="Profile Views">
   </p>
 </a>
