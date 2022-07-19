@@ -10,7 +10,6 @@
 
 - 📫 Contact me on Discord **Nickk#7480**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
@@ -19,4 +18,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nickr69420&show_icons=true&locale=en&theme=ayu-mirage" alt="nickr69420" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nickr69420&show_icons=true&locale=en&theme=ayu-mirage" alt="nickr69420" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=nickr69420&show_icons=true&locale=en&theme=ayu-mirage" alt="nickr69420" /></p>
