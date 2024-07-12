@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nickr69420&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="nickr69420" /> </p>
 
-- 🌱 I’m currently learning **nothing**
+- 🌱 I’m currently learning **Python**
 
 - 📫 Contact me on Discord **nicgro**
 
