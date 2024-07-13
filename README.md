@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 📫 Discord **nigro**
+- 📫 Discord **nicgro**
 
 - ⚡ Fun fact **i funy**
 
